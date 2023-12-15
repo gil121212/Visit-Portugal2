@@ -1,0 +1,19 @@
+img{
+	width:400px;
+	border:2px solid blue;
+}
+body{
+	background-color: Aquamarine;
+	font-family:Ariel;
+	font-size:20px
+}
+.red{
+	color:red;
+}
+.big_font{
+	font-size:32px;
+}
+#specialStyle{
+	background-color:yellow;
+	border:2px solid red;
+}
